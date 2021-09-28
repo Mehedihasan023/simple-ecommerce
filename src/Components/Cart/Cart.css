@@ -1,0 +1,8 @@
+.order-cart {
+  text-align: center;
+}
+.total-cart {
+  margin-left: 14px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
